@@ -11,4 +11,8 @@ Copy the QMC5883L.py to the ESP32. Then import it like in the example Script.
 # Thanks to:
 https://github.com/Slaveche90/gy271compass
 
+https://github.com/robert-hh/QMC5883/blob/master/qmc5883.py
+
+https://github.com/gvalkov/micropython-esp8266-hmc5883l/blob/master/hmc5883l.py
+
  
