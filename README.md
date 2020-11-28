@@ -13,8 +13,11 @@ qmc = QMC5883L()
 qmc.read_Temperature()
 qmc.heading()
 ```
-
+# ToDo:
+* Temperatureaccuracy is about 10°C away from real Value
+* make second Sensitivity of Sensor available
 # Thanks to:
+following Sources were used to get things Done
 https://github.com/Slaveche90/gy271compass
 
 https://github.com/robert-hh/QMC5883/blob/master/qmc5883.py
