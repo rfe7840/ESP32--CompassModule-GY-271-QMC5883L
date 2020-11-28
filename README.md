@@ -10,7 +10,8 @@ Copy the QMC5883L.py to the ESP32. Then import it like in the example Script.
 ``` from QMC5883L import QMC5883L 
 qmc = QMC5883L()
 qmc.read_Temperature()
-qmc.heading() ```
+qmc.heading()
+```
 
 # Thanks to:
 https://github.com/Slaveche90/gy271compass
